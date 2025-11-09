@@ -39,12 +39,7 @@
 
 <br clear="both">
 
-<!-- 🐍 GitHub Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dakshita-git/dakshita-git/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dakshita-git/dakshita-git/output/snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dakshita-git/dakshita-git/output/snake.svg" />
-</picture>
+
 
 ###
 
